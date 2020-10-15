@@ -1,4 +1,4 @@
-# Image-Processing
+# Image-Processing for RGB image
 Digital Image Processing using MATLAB
 
 The program will Import colour images, add Gaussian, salt & pepper and speckle noise to
